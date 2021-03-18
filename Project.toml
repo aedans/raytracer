@@ -1,0 +1,16 @@
+name = "WWURay"
+uuid = "82c64452-2228-4e51-86b9-fc4e3b748eb2"
+authors = ["swehrwein <scott.wehrwein@wwu.edu>"]
+version = "0.1.0"
+
+[deps]
+ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
+BM3D = "95fb3b36-088a-43fb-bb1b-b1f34fadbd7d"
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
+ImageMagick = "6218d12a-5da1-5696-b52f-db25d2ecc6d1"
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+OpenCL = "08131aa3-fb12-5dee-8b74-c09406e224a2"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+Wavelets = "29a6e085-ba6d-5f35-a997-948ac2efa89a"
